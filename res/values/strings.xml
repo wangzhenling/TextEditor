@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wu Shi Er Ye Li Zi</string>
+    <string name="action_settings">Settings</string>
+    <string name="test_text">测试文字，测试文字！</string>
+    <string name="color">颜色</string>
+    <string name="red">红色</string>
+    <string name="green">绿色</string>
+    <string name="blue">蓝色</string>
+    <string name="size">大小</string>
+    <string name="zeng">增大</string>
+    <string name="suo">缩小</string>
+    <string name="yang">样式</string>
+    <string name="cu">加粗</string>
+    <string name="xie">倾斜</string>
+    <string name="mo">默认</string>
+    <string name="nei">内容</string>
+
+</resources>
